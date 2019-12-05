@@ -23,7 +23,7 @@ Lab 13: Scraping and parsing web data.
 Lab 14: SQL and Decision Trees.
 
 Lab 15: Clustering.
-# HW's & Projets
+# HW's & Projects
 HW1: Math Review and Plotting.
 
 HW2: Sampling Error and Bias on 2016 Polling Data. 

@@ -1,5 +1,5 @@
-#Labs
-
+# Labs
+---
 Lab 3: Summary statistics and loss functions.
 
 Lab 4: Pandas overview.
